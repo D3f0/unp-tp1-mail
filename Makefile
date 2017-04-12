@@ -1,6 +1,8 @@
 .PHONY: clean docs help
 .DEFAULT_GOAL := help
 
+
+# TODO: Refactorizar esto para tomarlo del ambiente si no está definido
 ENV := mqtt
 
 define PRINT_HELP_PYSCRIPT
