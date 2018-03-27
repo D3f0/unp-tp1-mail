@@ -1,5 +1,7 @@
 # Servidor de mail de pruba para Redes y Transmición de Datos UNPSJB
 
+**Update** su funcionalidad ahora está unificada en https://github.com/D3f0/unp-rtd-tp1
+
 Como parte del trabajo práctico 1 del materia se hacen pruebas con telnet para enviar y recibir mails.
 
 Para iniciar el servidor utilizar el Makefile. Revisar con make help, es necesario instalar docker.
